@@ -19,10 +19,10 @@
 }
 
 @font-face {
-    font-weight: 900;
     font-family: 'Inter';
-    font-style: normal;    
+    font-style: normal;
     font-display: swap;
+    font-weight: 900;
     src: url("./Inter-Black.woff2") format("woff2"),
          url("./Inter-Black.woff") format("woff");
 }

@@ -4,10 +4,10 @@ font-size: 72px;
 line-height: 76px;
 padding: 245px 312px 0 312px;
 margin: 0 auto;
-text-align: center;
 color: #ffffff;
-z-index: 6;
+text-align: center;
 position: relative;
+z-index: 6;
 }
 
 @media (max-width: 1024px) {
