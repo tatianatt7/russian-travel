@@ -1,0 +1,25 @@
+.cover {
+    margin: 92px 48px 0 48px;
+    max-width: 1184px;
+    width: 100%;
+    position: relative;
+}
+@media (max-width: 1024px) {
+    .cover {
+    margin: 92px 0 0 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .cover {
+    margin: 90px 0 0 0;
+       }
+}
+
+
+@media (max-width: 320px) {
+    .cover{
+    margin: 66px 0 0 0;
+    padding: 0;
+    }
+}
