@@ -2,7 +2,7 @@
 font-weight: 900;
 font-size: 72px;
 line-height: 76px;
-padding: 245px 312px 0 312px;;
+padding: 245px 312px 0 312px;
 margin: 0 auto;
 text-align: center;
 color: #ffffff;
@@ -29,5 +29,4 @@ max-width: 560px;
 .cover__title {
 padding: 33px 16px 0 16px;
        }
-
 }
