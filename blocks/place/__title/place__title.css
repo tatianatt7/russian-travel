@@ -24,10 +24,10 @@
     }
         
 
-@media (max-width: 320px) {
+@media (max-width: 500px) {
     .place__title {
         margin: 0;
-        padding-left: 16px;
+        padding: 0 16px 0 16px;
         font-size: 32px;
         line-height: 35px;
     }

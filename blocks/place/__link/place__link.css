@@ -5,8 +5,8 @@
     font-size: 18px;
     line-height: 22px;
     color: #ffffff;
-    opacity: 1;
     transition: 0.4s;
+    opacity: 1;
     text-decoration-line: underline;
 }
 

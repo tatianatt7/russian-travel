@@ -1,9 +1,9 @@
 .places {
-    margin: 92px 148px 0 148px;
-    gap: 80px;
-    display: flex;
-    flex-direction: column;
-}
+ display: grid;
+ grid-template-columns: repeat(1, 1fr);
+ margin: 92px 148px 0 148px;
+ gap: 80px;
+} 
   
 @media (max-width: 1024px) {
     .places {
@@ -25,5 +25,6 @@
         margin: 64px 0 0 0;
         padding: 0;
         gap: 50px;
+        width: 288px;
     }
-    }
+}

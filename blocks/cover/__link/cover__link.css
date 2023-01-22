@@ -3,26 +3,26 @@
     flex-direction: column;
     justify-content: center;
     text-decoration: none;
+    background-repeat: no-repeat;
+    color: #ffffff;
     margin: 0;
     padding: 0;
     width: 100%;
-    background-image: url(../../../images/cover__background.png);
-    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    color: #ffffff;
+    background-image: url(../../../images/cover__background.png);
     aspect-ratio: 1/0.625;
 }
 
 .cover__link::before {
-    content: '';
+    content: "";
     display: block;
     position: absolute;
     top: 0;
     left: 0;
+    background: #2A2C2F;
     right: 0;
     bottom: 0;
-    background: #2A2C2F;
     opacity: 0.3;
     transition: 0.4s;
 }
