@@ -7,11 +7,12 @@
     color: #ffffff;
     margin: 0;
     padding: 0;
-    width: 100%;
     background-size: cover;
     background-position: center;
     background-image: url(../../../images/cover__background.png);
     aspect-ratio: 1/0.625;
+    width: 100%;
+    max-width: 1184px;
 }
 
 .cover__link::before {
