@@ -5,6 +5,7 @@
   justify-content: center;
   margin: 56px 148px 0 148px;
   padding: 0;
+  aspect-ratio: 1/0.625;
   }
   
 @media (max-width: 1024px) {
@@ -16,5 +17,6 @@
 @media (max-width: 768px) {
   .lead {
     margin: 48px 0 0 0;
+    aspect-ratio: 1/0.625;
   }   
 }

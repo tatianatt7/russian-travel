@@ -22,7 +22,7 @@
         padding: 8px 586px 0 24px; }
 }      
 
-@media (max-width: 320px) {
+@media (max-width: 500px) {
     .lead__caption {
         padding: 8px 146px 0 16px;
     }
