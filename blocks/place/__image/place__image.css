@@ -13,7 +13,7 @@
         max-height: 440px;
     }
 }
-@media (max-width: 768px) {
+@media (max-width: 850px) {
     .place__image {
         max-width: 340px;
         max-height: 340px;
@@ -23,5 +23,6 @@
 @media (max-width: 500px) {
     .place__image {
         max-width: 320px;
+        max-height: 320px;
       }
     }
