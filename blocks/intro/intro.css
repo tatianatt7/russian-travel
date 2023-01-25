@@ -1,14 +1,17 @@
 .intro {
-    margin: 92px 442px 0 148px;
+    margin: 92px auto 0 148px;
     display: flex;
+    align-items: center;
     flex-direction: column;
     box-sizing: border-box;
     align-items: flex-start;
+    text-align: start;
+    max-width: 690px;
 }
 
 @media(max-width: 1024px) {
     .intro {
-    margin: 92px 286px 0 48px;
+    margin: 92px auto 0 48px;
     }
 }
 

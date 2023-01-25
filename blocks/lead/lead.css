@@ -17,6 +17,5 @@
 @media (max-width: 768px) {
   .lead {
     margin: 48px 0 0 0;
-    aspect-ratio: 1/0.625;
   }   
 }
