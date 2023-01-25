@@ -1,9 +1,8 @@
 .cover {
-    margin: 92px 48px 0 48px;
+    margin: 92px auto 0 auto;
     padding: 0;
     max-width: 1184px;
-    width: 100%;
-    position: relative;
+    width: calc(100%-96px);
 }
 @media (max-width: 1024px) {
     .cover {
