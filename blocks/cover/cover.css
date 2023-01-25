@@ -2,6 +2,7 @@
     margin: 92px auto 0 auto;
     padding: 0;
     max-width: 1184px;
+    position: relative;
     width: calc(100% - 96px);
 }
 @media (max-width: 1024px) {
