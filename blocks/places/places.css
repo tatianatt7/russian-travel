@@ -1,11 +1,11 @@
 .places {
- display: grid;
- grid-template-columns: repeat(1, 1fr);
- margin: 92px auto 0 auto;
- gap: 80px;
- width: calc(100% - 296px);
-} 
-  
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    margin: 92px auto 0 auto;
+    gap: 80px;
+    width: calc(100% - 296px);
+}
+
 @media (max-width: 1100px) {
     .places {
         width: calc(100% - 96px);
@@ -17,11 +17,10 @@
         margin: 88px auto 0 auto;
         gap: 73px;
         width: calc(100% - 48px);
-        
     }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 680px) {
     .places {
         margin: 64px auto 0 auto;
         gap: 50px;

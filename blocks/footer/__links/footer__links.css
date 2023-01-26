@@ -8,10 +8,10 @@
     gap: 18px;
 }
 
-@media(max-width: 500px) {
-    .footer__links{
-    flex-direction: column;
-    margin: 0 0 48px 0;
-    gap: 32px;
+@media (max-width: 680px) {
+    .footer__links {
+        flex-direction: column;
+        margin: 0 0 48px 0;
+        gap: 32px;
     }
 }

@@ -9,19 +9,13 @@
     align-self: flex-start;
     padding-left: 0;
     /* width: 158px; */
-    
-}
- 
-@media (max-width: 1024px) {
-    .lead__caption {
-        /* padding-left: 0; */
-        }
 }
 
 @media (max-width: 768px) {
     .lead__caption {
-        padding-left: 24px;}
-}      
+        padding-left: 24px;
+    }
+}
 
 @media (max-width: 500px) {
     .lead__caption {

@@ -6,7 +6,7 @@
     font-weight: 400;
 }
 
-.place__paragraph:nth-of-type(2) {
+.place__paragraph:last-child {
     margin-top: 25px;
 }
 

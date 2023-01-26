@@ -23,7 +23,6 @@
     }
 }
 
-
 @media (max-width: 500px) {
     .photo-grid {
         width: calc(100% - 32px);
@@ -32,4 +31,3 @@
         gap: 12px;
     }
 }
-

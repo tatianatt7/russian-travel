@@ -1,8 +1,8 @@
-.header__logo {    
+.header__logo {
     width: 176px;
 }
 
-@media(max-width: 320px) {
+@media (max-width: 320px) {
     .header__logo {
         width: 142px;
     }
